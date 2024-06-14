@@ -70,6 +70,11 @@ p {
   z-index: 2; /* 다른 요소 위에 표시되도록 설정 */
 }
 
+.gif-link {
+  display: block; /* Change from inline-block to block */
+  width: 100%;
+  height: 100%;
+}
 .gif-image1 {
   margin-top: 200px;
   margin-left: 130px;
